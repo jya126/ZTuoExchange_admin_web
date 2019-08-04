@@ -53,3 +53,11 @@ The following dependencies are required to run an instance:
 
     -index.html
     -package.json -项目配置文件
+    
+    捐赠支持
+
+BTC：3AU5QZb591Vs63SAzdhebBZpQ6qj9GVCNm
+
+LTC：33tZdhUBqhB2s3JoUEsuBhHQ75taW12WAc
+
+ETH：0x38d7f0c2d5054941717bde236a7f0aa94e89d5af
